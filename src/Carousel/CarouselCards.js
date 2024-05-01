@@ -4,7 +4,7 @@ import { View } from "react-native";
 import Carousel from "react-native-snap-carousel";
 
 
-import data from "./data";
+import data from "../../data";
 
 const CarouselCards = () => {
   const isCarousel = React.useRef(null);

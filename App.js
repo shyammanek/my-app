@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Appearance, useColorScheme, Dimensions } from 'react-native';
 import Carousel from 'react-native-snap-carousel';
-import CarouselCards from './CarouselCards';
+import CarouselCards from './src/Carousel/CarouselCards';
 
 
 
