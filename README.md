@@ -11,4 +11,6 @@ Concepts of react native
     tailwindCSS
     camera
     storage
+
+    deeplink
     

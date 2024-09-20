@@ -3,6 +3,7 @@
     "name": "my-app",
     "slug": "my-app",
     "version": "1.0.0",
+    "scheme": "myapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -13,6 +14,10 @@
     },
     "assetBundlePatterns": [
       "**/*"
+    ],
+    "platforms": [
+      "ios",
+      "android"
     ],
     "ios": {
       "supportsTablet": true
